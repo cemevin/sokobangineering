@@ -1,0 +1,11 @@
+{
+    "asset": "2c3e63fca3f2377498301073b1d0e3ab",
+    "fileName": "0199016b-b8ca-7580-81f5-ef9313686f4c.pose.json",
+    "prompt": "push a box as big as the caracter, heavy box, push by leaning to it with hands ",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1689656953,
+    "w3CTraceId": "0f83992f20242f6f2c2db570a9dbba5d",
+    "isTrimmed": false
+}

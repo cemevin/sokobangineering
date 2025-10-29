@@ -1,0 +1,11 @@
+{
+    "asset": "b379dc254b8d0c94fa9d86a69c5811e0",
+    "fileName": "01990174-21a8-7b8b-b46f-cb2e2933b37e.pose.json",
+    "prompt": "push a big box with hands leaning onto it, walk loop, looping animation",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 843136012,
+    "w3CTraceId": "92ae32cee79badc590cdf59ecf96d9a3",
+    "isTrimmed": false
+}
